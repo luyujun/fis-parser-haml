@@ -1,0 +1,14 @@
+{
+  "name"            : "fis-parser-haml",
+  "description"     : "A parser plugin for fis to compile haml file.",
+  "homepage"        : "http://fis.baidu.com/",
+  "keywords"        : ["fis", "haml"],
+  "author"          : "luyujun <luyujun87@gmail.com>",
+  "repository"      : {"type": "git", "url": "git://github.com/luyujun/fis-parser-haml.git"},
+  "main"            : "index.js",
+  "version"         : "0.0.1",
+  "engines"         : {"node": ">=0.8.12"},
+  "dependencies"    : {"haml": ">=0.4.0"},
+  "devDependencies" : {"fis": "1.0.1"},
+  "licenses"        : "MIT"
+}
