@@ -10,11 +10,6 @@ fis.config.merge({
         haml : 'haml'
       }
     },
-    settings : {
-      parser : {
-        haml : {optimize:false}
-      }
-    },
     roadmap : {
       ext : {
         haml : 'html'
