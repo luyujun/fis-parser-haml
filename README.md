@@ -4,6 +4,7 @@ A parser plugin for fis to compile haml file.
 
 ## usage
 
+    $ npm install -g fis
     $ npm install -g fis-parser-haml
     $ vi example/fis-conf.js
 
