@@ -15,27 +15,9 @@ fis.config.merge({
       haml: 'haml'
     }
   },
-  settings:{
-    parser:{
-      haml: {pretty:true}
-    }
-  },
   roadmap:{
     ext:{
       haml: 'html'
-    }
-  }
-});
-```
-
-```javascript
-//set haml option
-fis.config.set('settings.parser.haml', {pretty:true});
-//or
-fis.config.merge({
-  settings:{
-    parser:{
-      haml: {pretty:true}
     }
   }
 });
